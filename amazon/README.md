@@ -1,2 +1,6 @@
-This is my version of Amazon. I have used React for frontend, Firebase cloud functions for the backend server, Firebase Firestore for the database and also Stripe for payment processing. 
-The app is currently live at: https://fir-3ca99.web.app
+This is an end to end fullstack mimic of Amazon.
+
+This project was built using:
+	ReactJS, NextJS, NextAuth, Redux, TailwindCSS, FakeStoreAPI, StripeCLI, Firebase and also a custom webhook.
+
+This project can be accessed at:
