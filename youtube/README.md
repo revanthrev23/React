@@ -1,3 +1,0 @@
-This is a clone of Youtube built entirely for learning purpose only. This is a React App built using Redux, Bootstrap, Sass and the Youtube API V3.
-The app can be accessed at https://fir-50900.web.app
-If you see a red spinner busy rotating on the homescreen, it is due to HTTP 403, which is due to full usage of the quota of the youtube API for the day. Check back after 24 hours. It will work just fine.
